@@ -4,9 +4,10 @@ This is based on a data hack organised by Analytics Vidhya - https://datahack.an
 
 ### Problem Statement
 The challenge was to predict purchase prices of various products purchased by customers based on historical purchase patterns. The data contained features like age, gender, marital status, categories of products purchased, city demographics etc.
-
+</br>
+</br>
 The regression task was performed with 4 models : Linear Regression, Decision Tree Regression, Random Forest Regression and Gradient Boosting Regression. The model that performed best was the Random Forest one. 
-
+</br>
 ##### Requirements :
   Python 2.x/3.x </br>
   Numpy </br>
